@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kdy-react-portfolio/static/css/main.20ca6490.css",
+    "main.css": "/kdy-react-portfolio/static/css/main.17bbcd5b.css",
     "main.js": "/kdy-react-portfolio/static/js/main.77089ecc.js",
     "static/js/453.ed3810f9.chunk.js": "/kdy-react-portfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/project4_img2.png": "/kdy-react-portfolio/static/media/project4_img2.b5d1aa9d3da0236f6da6.png",
@@ -30,12 +30,12 @@
     "static/media/oracleDBLogo.png": "/kdy-react-portfolio/static/media/oracleDBLogo.49954642e809ac51ae3c.png",
     "static/media/JSLogo.png": "/kdy-react-portfolio/static/media/JSLogo.3dfb665e058d08c99f28.png",
     "index.html": "/kdy-react-portfolio/index.html",
-    "main.20ca6490.css.map": "/kdy-react-portfolio/static/css/main.20ca6490.css.map",
+    "main.17bbcd5b.css.map": "/kdy-react-portfolio/static/css/main.17bbcd5b.css.map",
     "main.77089ecc.js.map": "/kdy-react-portfolio/static/js/main.77089ecc.js.map",
     "453.ed3810f9.chunk.js.map": "/kdy-react-portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20ca6490.css",
+    "static/css/main.17bbcd5b.css",
     "static/js/main.77089ecc.js"
   ]
 }
