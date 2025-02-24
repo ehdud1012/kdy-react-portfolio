@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/kdy-react-portfolio/static/css/main.2fbaa373.css",
+    "main.js": "/kdy-react-portfolio/static/js/main.30c90638.js",
+    "static/js/453.ed3810f9.chunk.js": "/kdy-react-portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/project4_img2.png": "/kdy-react-portfolio/static/media/project4_img2.b5d1aa9d3da0236f6da6.png",
+    "static/media/project4_img1.png": "/kdy-react-portfolio/static/media/project4_img1.f36247ab3973f74bd168.png",
+    "static/media/project4_img3.png": "/kdy-react-portfolio/static/media/project4_img3.33f619850431e819a43f.png",
+    "static/media/project5_img2.png": "/kdy-react-portfolio/static/media/project5_img2.f8b8c60e43dd83c9436d.png",
+    "static/media/project1_img1.png": "/kdy-react-portfolio/static/media/project1_img1.cdd35f3cc9a5d7668203.png",
+    "static/media/project2_img1.png": "/kdy-react-portfolio/static/media/project2_img1.d10e54c4de153d31aeca.png",
+    "static/media/project1_img3.png": "/kdy-react-portfolio/static/media/project1_img3.6a509cc4f6bee2334409.png",
+    "static/media/project2_img2.png": "/kdy-react-portfolio/static/media/project2_img2.fc067927d7195aac3c3d.png",
+    "static/media/project5_img1.png": "/kdy-react-portfolio/static/media/project5_img1.ed323120874f7251241c.png",
+    "static/media/project1_img2.png": "/kdy-react-portfolio/static/media/project1_img2.10d019b3b02b588ff977.png",
+    "static/media/jQueryLogo.png": "/kdy-react-portfolio/static/media/jQueryLogo.a3dee59f17a3d71fef76.png",
+    "static/media/KDY_profile.jpg": "/kdy-react-portfolio/static/media/KDY_profile.3bd55a887043c9a41aa4.jpg",
+    "static/media/project3_img2.png": "/kdy-react-portfolio/static/media/project3_img2.02b53a3b14550105df13.png",
+    "static/media/project3_img3.png": "/kdy-react-portfolio/static/media/project3_img3.caa35c431687f6139a1f.png",
+    "static/media/student.jpg": "/kdy-react-portfolio/static/media/student.1034567e5f4aef8506cf.jpg",
+    "static/media/project3_img1.png": "/kdy-react-portfolio/static/media/project3_img1.ff07588a60cc4cc19d94.png",
+    "static/media/project5_img3.png": "/kdy-react-portfolio/static/media/project5_img3.3d986986906c71646df6.png",
+    "static/media/AJAXLogo.png": "/kdy-react-portfolio/static/media/AJAXLogo.ed32e41ef7b134f34280.png",
+    "static/media/javaLogo.png": "/kdy-react-portfolio/static/media/javaLogo.4e332879122f609caa57.png",
+    "static/media/project2_img3.png": "/kdy-react-portfolio/static/media/project2_img3.0ff9625ce5049ee31027.png",
+    "static/media/springLogo.png": "/kdy-react-portfolio/static/media/springLogo.1493cea40dd5502e5ac7.png",
+    "static/media/htmlLogo.png": "/kdy-react-portfolio/static/media/htmlLogo.a92a549a591f4acb527a.png",
+    "static/media/pythonLogo.png": "/kdy-react-portfolio/static/media/pythonLogo.53f15fae5e9bab19ed7d.png",
+    "static/media/cssLogo.png": "/kdy-react-portfolio/static/media/cssLogo.4a6549b8c2b4cda8bb88.png",
+    "static/media/oracleDBLogo.png": "/kdy-react-portfolio/static/media/oracleDBLogo.49954642e809ac51ae3c.png",
+    "static/media/JSLogo.png": "/kdy-react-portfolio/static/media/JSLogo.3dfb665e058d08c99f28.png",
+    "index.html": "/kdy-react-portfolio/index.html",
+    "main.2fbaa373.css.map": "/kdy-react-portfolio/static/css/main.2fbaa373.css.map",
+    "main.30c90638.js.map": "/kdy-react-portfolio/static/js/main.30c90638.js.map",
+    "453.ed3810f9.chunk.js.map": "/kdy-react-portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fbaa373.css",
+    "static/js/main.30c90638.js"
+  ]
+}
