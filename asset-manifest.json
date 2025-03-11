@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kdy-react-portfolio/static/css/main.86d5fe76.css",
-    "main.js": "/kdy-react-portfolio/static/js/main.5b1b3839.js",
+    "main.js": "/kdy-react-portfolio/static/js/main.2a7a0f00.js",
     "static/js/453.ed3810f9.chunk.js": "/kdy-react-portfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/project4_img2.png": "/kdy-react-portfolio/static/media/project4_img2.b5d1aa9d3da0236f6da6.png",
     "static/media/project4_img1.png": "/kdy-react-portfolio/static/media/project4_img1.f36247ab3973f74bd168.png",
@@ -31,11 +31,11 @@
     "static/media/JSLogo.png": "/kdy-react-portfolio/static/media/JSLogo.3dfb665e058d08c99f28.png",
     "index.html": "/kdy-react-portfolio/index.html",
     "main.86d5fe76.css.map": "/kdy-react-portfolio/static/css/main.86d5fe76.css.map",
-    "main.5b1b3839.js.map": "/kdy-react-portfolio/static/js/main.5b1b3839.js.map",
+    "main.2a7a0f00.js.map": "/kdy-react-portfolio/static/js/main.2a7a0f00.js.map",
     "453.ed3810f9.chunk.js.map": "/kdy-react-portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86d5fe76.css",
-    "static/js/main.5b1b3839.js"
+    "static/js/main.2a7a0f00.js"
   ]
 }
